@@ -1,0 +1,18 @@
+.card img{
+	height: 200px;
+	object-fit: cover;
+}
+.disponibilidadArticulos {
+	position: absolute;
+	right: 0;
+	background: rgba(255, 255, 255,0.7);
+	padding: 10px;
+}
+.disponible {
+	color: green;
+	font-weight: bold;
+}
+.agotado {
+	color: red;
+	font-weight: bold;
+}
